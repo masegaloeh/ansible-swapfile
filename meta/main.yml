@@ -7,4 +7,4 @@ galaxy_info:
   version: 0.4
   categories:
     - system
-  dependencies: []
+dependencies: []
